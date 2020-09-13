@@ -1,3 +1,6 @@
 [submodule "macrology201"]
 	path = macrology201
 	url = https://github.com/scalamacros/macrology201
+[submodule "essential-macros"]
+	path = essential-macros
+	url = https://github.com/underscoreio/essential-macros
