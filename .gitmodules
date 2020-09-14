@@ -4,3 +4,6 @@
 [submodule "essential-macros"]
 	path = essential-macros
 	url = https://github.com/underscoreio/essential-macros
+[submodule "scala-macros-examples"]
+	path = scala-macros-examples
+	url = https://github.com/BBartosz/scala-macros-examples
